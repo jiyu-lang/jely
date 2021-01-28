@@ -1,5 +1,5 @@
-# jiyu
-The JiYu programming language
+# jely
+The jely programming language
 
 언어의 목표
 안전한 C++
